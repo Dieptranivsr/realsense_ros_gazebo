@@ -49,9 +49,9 @@ T265 & D435i
 ![](doc/d435.png)
 
 ### Usage ###
-* 启动sdf simulation  
+* sdf simulation  
 `roslaunch realsense_ros_gazebo simulation_sdf.launch`
-* 启动xacro simulation  
+* xacro simulation  
 `roslaunch realsense_ros_gazebo simulation.launch`
 
 #### xacro
@@ -83,7 +83,7 @@ T265 & D435i
     </joint>
 
 ```
-其中的iris根据自己的robot model name一致
+iris robot model name
 
 ### Publishers ###
 
